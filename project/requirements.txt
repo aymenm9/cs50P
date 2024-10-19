@@ -1,2 +1,0 @@
-pip install cryptography
-pip install pytest
